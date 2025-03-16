@@ -1,0 +1,23 @@
+{
+  "name": "restful_api_with_nodejs_express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/purplegeminii/RESTful_API_with_NodeJS_Express.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/purplegeminii/RESTful_API_with_NodeJS_Express/issues"
+  },
+  "homepage": "https://github.com/purplegeminii/RESTful_API_with_NodeJS_Express#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
