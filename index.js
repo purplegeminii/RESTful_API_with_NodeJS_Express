@@ -1,3 +1,4 @@
+// "main": "index.js", in the package.json file and no "type"
 const express = require('express');
 const app = express();
 const PORT = 8080;
